@@ -1,1 +1,22 @@
+# 📇 Contact Management System
+
+A simple yet powerful **Python-based Contact Management System** that allows users to store, view, search, update, and delete contact information efficiently through a command-line interface. This project demonstrates fundamental concepts of file handling, data management, and user interaction in Python.
+
+## 🚀 Features
+
+- ➕ Add new contacts (Name, Phone, Email, Address)
+- 🔍 Search contacts by name or phone number
+- 📋 View all saved contacts
+- ✏️ Edit existing contact information
+- ❌ Delete unwanted contacts
+- 💾 Data persistence using text file storage
+
+## 🛠️ Technologies Used
+
+- **Language:** Python 3.x
+- **IDE:** VS Code / PyCharm (or any text editor)
+- **Storage:** Local file system (`contacts.txt`)
+
+
+
 
